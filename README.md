@@ -1,9 +1,20 @@
-# 💫 Hello World! I'm Daniel  
-🎯 I enjoy solving problems with clean and well-structured code.  
-💡 I'm passionate about decentralization, efficiency, and software best practices.  
-🛠️ My main stack is Java with Spring Boot, but I'm always exploring new technologies.  
+<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+  <tr>
+  <td align="left" width="70%" style="border: none;">
+    
+  <h2>💫 Hello World! I'm Daniel</h2>
+  <p>🎯 I enjoy solving problems with clean and well-structured code.<br>
+  💡 I'm passionate about decentralization, efficiency, and software best practices.<br>
+  🛠️ My main stack is Java with Spring Boot, but I'm always exploring new technologies.<br><br>
+  🕹️ Constantly seeking new challenges…</p>
+  
+  </td>
+  <td align="center" width="30%">
+  <img src="img/daniel-vallado.png" alt="Daniel Vallado" width="150" style="border-radius: 50%;" />
+  </td>
+  </tr>
+</table>
 
-🕹️ Constantly seeking new challenges…
 
 ## 🌐 Socials
 <a href="https://www.linkedin.com/in/daniel-vallado/" target="_blank" rel="noopener noreferrer">
