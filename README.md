@@ -10,7 +10,7 @@
   
   </td>
   <td align="center" width="30%">
-  <img src="img/daniel-vallado.png" alt="Daniel Vallado" width="150" style="border-radius: 50%;" />
+  <img src="img/daniel-vallado.png" alt="Daniel Vallado" width="200" style="border-radius: 50%;" />
   </td>
   </tr>
 </table>
